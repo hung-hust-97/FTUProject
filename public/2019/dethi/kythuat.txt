@@ -1,0 +1,50 @@
+Câu 1: Một giả thiết cơ bản của phân tích kỹ thuật là:
+1. Giá chứng khoán biến động ngẫu nhiên và không dự đoán trước được
+2. Giá chứng khoán thay đổi theo hình mẫu và lặp lại qua các thời kỳ
+3. Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian
+4. Các báo cáo tài chính cung cấp thông tin chủ yếu để định giá chứng khoán
+Câu 2: Nhà phân tích kĩ thuật ít quan tâm đến yếu tố nào sau đây:
+1. Giá cả các chứng khoán
+2. Khối lượng giao dịch
+3. Tỷ số P/E của cổ phiếu
+4. Giá tham chiếu của cổ phiếu
+Câu 3: Một chứng khoán được ồ ạt mua vào khi:
+1. Giá thị trường bắt đầu lên
+2. Giá thị trường bắt đầu xuống
+3. Kết thúc thị trường giá lên
+4. Kết thúc thị trường giá xuống
+Câu 4: Một cây nến màu xanh trên biểu đồ giá chứng khoán Việt Nam có ý nghĩa:
+1. Giá kết thúc phiên giao dịch cao hơn so với giá mở đầu phiên
+2. Giá kết thúc phiên giao dịch thấp hơn so với giá mở đầu phiên
+3. Giá kết thúc phiên giao dịch cao hơn nhiều so với giá mở đầu phiên
+4. Giá kết thúc phiên giao dịch thấp hơn nhiều so với giá mở đầu phiên
+Câu 5: Một cây nến màu đỏ trên biểu đồ giá chứng khoán Việt Nam có ý nghĩa:
+1. Giá kết thúc phiên giao dịch cao hơn so với giá mở đầu phiên
+2. Giá kết thúc phiên giao dịch thấp hơn so với giá mở đầu phiên
+3. Giá kết thúc phiên giao dịch cao hơn nhiều so với giá mở đầu phiên
+4. Giá kết thúc phiên giao dịch thấp hơn nhiều so với giá mở đầu phiên
+Câu 6: Khi các chứng khoán được ồ ạt bán ra là dấu hiệu của:
+1. Bắt đầu của thị trường giá lên
+2. Bắt đầu của thị trường giá xuống
+3. Kết thúc của thị trường giá lên
+4. Kết thúc của thị trường giá xuống
+Câu 7: Khi các chứng khoán được ồ ạt mua vào là dấu hiệu của:
+1. Bắt đầu của thị trường giá lên
+2. Bắt đầu của thị trường giá xuống
+3. Kết thúc của thị trường giá lên
+4. Kết thúc của thị trường giá xuống
+Câu 8: Sóng Elliot trong thị trường giá lên có bao nhiêu sóng điều chỉnh:
+1. 3
+2. 4
+3. 5
+4. 6
+Câu 9: Tại vùng giá hỗ trợ, nhà đầu tư chứng khoán nên:
+1. Mua vào
+2. Bán ra
+3. Không làm gì cả
+4. Tất cả đều sai
+Câu 10: Tại vùng giá kháng cự, nhà đầu tư chứng khoán nên:
+1. Mua vào
+2. Bán ra
+3. Không làm gì cả
+4. Tất cả đều sai

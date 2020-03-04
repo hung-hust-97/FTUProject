@@ -1,0 +1,30 @@
+Câu 1: Trong nền kinh tế hiện vật, một con gà có giá bằng 10 ổ bánh mì, một bình sữa có giá bằng 5 ổ bánh mì. Giá của một bình sữa tính theo hàng hoá khác là:
+1. 10 ổ bánh mì
+2. 2 con gà
+3. Nửa con gà
+4. Không có đáp án nào đúng
+Câu 2: 3 con gà đẻ 3 quả trứng trong 3 ngày. Vậy trong 12 ngày, 12 con gà đẻ được bao nhiêu quả trứng?
+1. 42
+2. 44
+3. 46
+4. 48
+Câu 3: Người ta đổ nước vào một bể cạn theo tỷ lệ không đổi, sau 8 giờ thì đổ được 3/5 thể tích của bể. Hỏi cần thêm thời gian là bao lâu nữa để đổ đầy bể nước đó?
+1. 5 giờ 30 phút
+2. 5 giờ 20 phút.
+3. 5 giờ 10 phút
+4. 5 giờ
+Câu 4: Điền số thích hợp vào chỗ trống: 1, 1, 2, 6, 24, 120, … :
+1. 460
+2. 620
+3. 720
+4. 860
+Câu 5: Một cổ phiếu giảm giá 60%. Hỏi cổ phiếu đó phải tăng giá thêm bao nhiêu phần trăm để trở về giá ban đầu?
+1. 60%
+2. 66,67%
+3. 83,34%
+4. 150%
+Câu 6: Từ 5 bông hồng vàng, 3 bông hồng trắng và 4 bông hồng đỏ, người ta muốn chọn một bó hồng gồm 7 bông, hỏi có bao nhiêu cách chọn bó hoa trong đó có ít nhất 3 bông hồng vàng và 3 bông hồng đỏ?
+1. 90 cách
+2. 120 cách
+3. 150 cách
+4. 180 cách

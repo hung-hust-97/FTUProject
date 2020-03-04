@@ -1,0 +1,391 @@
+﻿
+VĨ MÔ
+Câu 1: Chỉ số IPI là cụm từ viết tắt của cụm từ nào sau đây:
+1. Tổng sản phẩm nội địa
+2. Chỉ số quản lý mua hàng
+3. Chỉ số sản xuất công nghiệp      
+4. Chỉ số giá tiêu dùng
+Câu 2: Ngân hàng Trung ương có thể làm thay đổi cung nội tệ bằng cách:
+1. Mua/bán trái phiếu chính phủ
+2. Mua/bán ngoại tệ
+3. Cả 2 phương án A,B đều đúng
+4. Cả 2 phương án A,B đều sai          
+Câu 3: “Giỏ hàng hoá” được dùng để tính cho CPI bao gồm:
+1. Nguyên vật liệu thô được mua bởi các doanh nghiệp
+2. Các sản phẩm được mua bởi người tiêu dùng điển hình
+3. Tất cả các sản phẩm hiện hành
+4. Tất cả các sản phẩm tiêu dùng
+Câu 4: Mô hình AD-AS thể hiện mối quan hệ giữa:
+1. Giá cả và sản lượng của một hàng hóa cụ thể
+2. Thất nghiệp và sản lượng
+3. Lương và việc làm
+4. GDP thực tế và mức giá chung
+Câu 5: Sự khác biệt giữa GDP và GNP phản ánh:
+1. Cán cân thương mại
+2. Đầu tư nước ngoài ròng
+3. Cán cân thanh toán quốc tế
+4. Thu nhập ròng nhân tố từ nước ngoài
+Câu 6: Xét trên tổng thể nền kinh tế:
+1. Tổng doanh thu bằng tổng chi phí
+2. Tổng thu nhập bằng tổng tiêu dùng
+3. Tổng thu nhập bằng tổng chi tiêu
+4. Tổng số người mua bằng tổng số người bán
+Câu 7: Lợi nhuận của một doanh nghiệp Việt Nam thu được tại New York sẽ được tính vào:
+1. GNP của Việt Nam
+2. GDP của Việt Nam
+3. GDP của Hoa Kì
+4. Cả A và C đều đúng
+Câu 8: Khoản nào sau đây không được tính vào GDP của Việt Nam năm 2019?
+1. Một chiếc xe đạp sản xuất tại Công ty xe đạp Thống Nhất năm 2019
+2. Thu nhập mà người môi giới bất động sản nhận được trong năm 2019
+3. Dịch vụ giới thiệu việc làm được thực hiện trong năm 2019
+4. Một khu chung cư xây dựng năm 2018 và bắt đầu mở bán năm 2019
+Câu 9: Khi nền kinh tế đang có lạm phát cao nên:
+1. Giảm lượng cung tiền, tăng lãi suất
+2. Tăng thuế và giảm chi ngân sách
+3. A và B đều đúng
+4. A và B đều sai
+Câu 10: Tỷ giá thay đổi sẽ ảnh hưởng đến:
+1. Cán cân thương mại
+2. Cán cân thanh toán
+3. Sản lượng quốc gia
+4. Tất cả đều đúng
+Câu 11: Chỉ tiêu nào dưới đây được coi là quan trọng nhất để đánh giá thành tựu kinh tế của một quốc gia trong dài hạn?
+1.  Tăng trưởng GDP danh nghĩa
+2.  Tăng trưởng GDP thực tế
+3.  Tăng trưởng GDP thực tế bình quân đầu người
+4. Tăng trưởng khối lượng tư bản
+Câu 12: Thất nghiệp tạm thời không phát sinh trong trường hợp nào dưới đây?
+1. Sinh viên mới tốt nghiệp đi tìm việc làm
+2. Một số doanh nghiệp bị phá sản
+3. Một số công nhân từ bỏ công việc hiện tại để tìm việc làm mới
+4. Các công nhân từ bỏ các công việc hiện tại và thôi không tìm việc nữa
+Câu 13:  Công thức tính GNP, biết :
+C = Chi phí tiêu dùng cá nhân (hộ gia đình)
+I = Tổng đầu tư cá nhân quốc nội (tất cả các doanh nghiệp đầu tư trên lãnh thổ 1 nước)
+G = Chi phí tiêu dùng của chính phủ
+X = Kim ngạch xuất khẩu các hàng hóa và dịch vụ
+M = Kim ngạch nhập khẩu của hàng hóa và dịch vụ
+NR = Thu nhập ròng từ các hàng hóa và dịch vụ đầu tư ở nước ngoài (thu nhập ròng)
+1. GNP = C + I + G + ( X + M) + NR
+2. GNP = C + G – I +( M – NR)
+3. GNP = C + I + G + (X - M) + NR
+4. GNP = C - I + G + (X - M) + NR
+Câu 14:  Theo cách tiếp cận chi tiêu, một lô hàng may mặc sản xuất vào năm 2017 và bán vào năm 2018 thì khi tính GDP năm 2018 được tính vào:
+1. Tiêu dùng
+2. Đầu tư
+3. Mua hàng của chính phủ
+4. Xuất khẩu ròng
+
+
+VI MÔ
+Câu 1:  Doanh nghiệp trong ngành cạnh tranh độc quyền cạnh tranh với nhau bằng việc:
+1. Bán sản phẩm hoàn toàn không có sản phẩm thay thế
+2. Bán các sản phẩm có thể thay thế nhau một cách hoàn toàn
+3. Bán các sản phẩm riêng biệt nhưng có thể thay thế nhau
+4. Cả 3 câu trên đều sai
+Câu 2:  Khi doanh nghiệp tăng sản lượng thì tổng lợi nhuận bị giảm. Điều này cho biết:
+1. Doanh thu biên lớn hơn chi phí biên
+2. Doanh thu biên nhỏ hơn chi phí biên
+3. Doanh thu biên bằng chi phí biên
+4. Cả 3 câu trên đều sai
+Câu 3: Doanh nghiệp có hàm tổng chi phí là TC = Q2 + 40Q + 10.000. Chi phí trung bình ở mức sản lượng 1.000 sản phẩm là:
+1. 1.050
+2. 1.040
+3. 2.040
+4. 2.050
+Câu 4: Điều nào sau dưới đây không được coi là một phần của chi phí cơ hội của việc đi học đại học:
+1. Học phí
+2. Chi phí mua sách
+3. Chi phí ăn uống
+4. Thu nhập lẽ ra phải kiếm được nếu không đi học
+Câu 5: Hệ số MRS luôn có giá trị:
+1. Tăng dần
+2. Giảm dần
+3. Không đổi
+4. Tất cả đều sai
+Câu 6: Nhân tố nào trong nhân tố sau đây không làm thay đổi đường cầu về lao động?
+1. Hạn chế thời gian
+2. Giá cả hàng hóa
+3. Trình độ công nghệ
+4. Trình độ tay nghề người lao động
+Câu 7:  Nền kinh tế mà chính phủ đứng ra giải quyết các vấn đề cơ bản là nền kinh tế:
+1. Thị trường
+2. Phụ thuộc
+3. Truyền thống
+4. Chỉ huy
+Câu 8: Khi giá của Y tăng làm cho lượng cầu của X giảm trong điều kiện các yếu tố khác không đổi. Vậy 2 sản phẩm X và Y có mối quan hệ:
+1. Thay thế cho nhau
+2. Độc lập với nhau
+3. Bổ sung cho nhau
+4. Các câu trên đều sai
+Câu 9: Một doanh nghiệp cạnh tranh hoàn toàn có hàm tổng chi phí: TC = Q2 + 300Q +100.000. Nếu giá thị trường là 1100 thì thặng dư sản xuất của doanh nghiệp:
+1. 160.000
+2. 320.000
+3. 400.000
+4. Các câu trên đều sai
+Câu 10: Hàm số cầu & hàm số cung sản phẩm X lần lượt là : P = 70 - 2Q ; P = 10 + 4Q. Thặng dư của người tiêu thụ (CS) & thặng dư của nhà sản xuất (PS) là:
+1. CS = 150 & Ps = 200
+2. CS = 100 & PS = 200
+3. CS = 200 & PS = 100
+4. CS = 150 & PS = 150
+Câu 11:  Nếu Long sẵn sàng thanh toán 100$ cho một cái máy pha cà phê và 120$ cho hai cái máy đó thì lợi ích cận biên của cái máy thứ hai là:
+1. 20$
+2. 100$
+3. 120$
+4.  220$
+Câu 12:  Khi các nhà kinh tế thúc giục chính phủ cố gắng loại bỏ độc quyền bán, họ làm thế chủ yếu nhằm mục đích:
+1. Ngăn chặn sự tăng trưởng của doanh nghiệp lớn
+2. Ngăn chặn không có giảm số các hãng nhỏ
+3. Hạn chế việc sát nhập
+4. Đảm bảo sự cạnh tranh
+Câu 13:  Đường chi phí trung bình dài hạn là:
+1. Tổng của tất cả các đường chi phí trung bình ngắn hạn
+2. Đường bao phía dưới của các đường chi phí trung bình ngắn hạn
+3. Đường bao phía trên của các đường chi phí trung bình ngắn hạn
+4. Không câu nào đúng
+
+
+SÀN CHỨNG KHOÁN
+Câu 1: Mức độ giao động giá trên sàn HOSE là bao nhiêu?
+1. +/- 5%
+2. +/- 10%
+3. +/- 7%
+4. +/- 12%
+Câu 2:  Màu sắc nào biểu hiện cho sự tăng giá trần của một cổ phiếu trong ngày?
+1. Xanh
+2. Đỏ
+3. Tím
+4. Vàng
+Câu 3: Mã cổ phiếu của Công ty cổ phần Cao su Phước Hòa là gì:
+1. PHR
+2. PHC
+3. CPH
+4. PHI
+Câu 4: Màu nào cho thấy giá cổ phiếu giảm kịch sàn:
+1. Đỏ
+2. Xanh lá
+3. Tím
+4. Xanh dương
+Câu 5: Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niêm yết được quy định theo pháp luật Việt Nam là:
+1. 25% tổng số cổ phiếu
+2. 100% tổng số cổ phiếu
+3. 49% tổng số cổ phiếu
+4. 35% tổng số cổ phiếu
+Câu 6: Thị trường ngoài danh mục (OTC: Over - The - Counter) là một:
+1. Thị trường đấu giá
+2. Thị trường chuyển giao
+3. Thị trường theo thương lượng
+4. Cả A, B, C đều sai
+Câu 7: Trên sàn HNX, đơn vị yết giá là:
+1. 100 đồng
+2. 10 đồng
+3. 50 đồng
+4. 500 đồng
+Câu 8: Mã cổ phiếu VNM của Công ty Cổ phần Sữa Việt Nam hiện đang niêm yết trên sàn:
+1. HOSE
+2. HNX
+3. UpCom
+4. Chưa niêm yết
+Câu 9: Vốn điều lệ thực tối thiểu (theo giá trị ghi trên sổ kế toán) góp tại thời điểm đăng kí của sở giao dịch chứng khoán Hồ Chí Minh (HOSE) là:
+1. 120 tỷ đồng 
+2. 160 tỷ đồng
+3. 100 tỷ đồng
+4. 200 tỷ đồng
+Câu 10: Việc một doanh nghiệp chào bán cổ phiếu lần đầu ra công chúng được viết tắt là gì?
+1. IPO
+2. ICO
+3. OPI
+4. OCI
+Câu 11: Trên trung tâm giao dịch chứng khoán Hà Nội, giá tham chiếu được xác định bằng:
+1. Giá mở cửa của ngày hôm trước 
+2. Giá đóng cửa của ngày hôm trước
+3. Giá bình quân của ngày hôm trước
+4. Giá bình quân của ngày liền kề ngày hôm trước
+
+
+IQ TEST
+Câu 1: Trong nền kinh tế hiện vật, một con gà có giá bằng 10 ổ bánh mì, một bình sữa có giá bằng 5 ổ bánh mì. Giá của một bình sữa tính theo hàng hoá khác là:
+1. 10 ổ bánh mì
+2. 2 con gà
+3. Nửa con gà
+4. Không có đáp án nào đúng
+Câu 2:  3 con gà đẻ 3 quả trứng trong 3 ngày. Vậy trong 12 ngày, 12 con gà đẻ được bao nhiêu quả trứng?
+1. 42
+2. 44
+3. 46
+4. 48
+Câu 3:  Người ta đổ nước vào một bể cạn theo tỷ lệ không đổi, sau 8 giờ thì đổ được 3/5 thể tích của bể. Hỏi cần thêm thời gian là bao lâu nữa để đổ đầy bể nước đó?
+1. 5 giờ 30 phút
+2. 5 giờ 20 phút.
+3. 5 giờ 10 phút
+4. 5 giờ
+Câu 4:  Điền số thích hợp vào chỗ trống: 1, 1, 2, 6, 24, 120, …
+A.    460
+	B.  620
+	C.  720
+	D.  860
+	
+
+Câu 5: Một cổ phiếu giảm giá 60%. Hỏi cổ phiếu đó phải tăng giá thêm bao nhiêu phần trăm để trở về giá ban đầu?
+1. 60%
+	B. 66,67%
+	C. 83,34%
+	D. 150%
+	
+Câu 6:  Từ 5 bông hồng vàng, 3 bông hồng trắng và 4 bông hồng đỏ, người ta muốn chọn một bó hồng gồm 7 bông, hỏi có bao nhiêu cách chọn bó hoa trong đó có ít nhất 3 bông hồng vàng và 3 bông hồng đỏ?
+1. 90 cách
+	B.  120 cách
+	C.  150 cách
+	D.  180 cách
+	
+
+
+
+
+
+
+
+LÝ THUYẾT TÀI CHÍNH, NGUYÊN LÝ KẾ TOÁN
+
+
+Câu 1: Để lập quỹ dự phòng bắt buộc, doanh nghiệp phải lấy từ nguồn nào sau đây:
+1. Doanh thu
+2. Vốn chủ sở hữu
+3. Lợi nhuận ròng
+4. Vốn pháp định
+Câu 2: Trên thị trường tiền tệ, người ta buôn bán:
+1. Các loại cổ phiếu
+2. Trái phiếu kho bạc
+3. Tín phiếu kho bạc
+4. Tất cả
+Câu 3: Khi doanh nghiệp thanh toán tiền mua hàng thì tiền tệ đã phát huy chức năng:
+1. Trao đổi
+2. Thanh toán
+3. Thước đo giá trị
+4. Cất trữ
+Câu 4: Sức mua của đồng tiền Việt Nam bị giảm sút khi:
+1. Đồng đôla Mĩ lên giá
+2. Giá cả trung bình tăng
+3. Cả 2 đáp án A, B đều sai
+4. Cả 2 đáp án A,B đều đúng
+Câu 5: Nếu NHTW muốn thắt chặt tiền tệ để chống lạm phát, NHTW có thể
+1. Tăng dự trữ bắt buộc
+2. Mua chứng khoán trên thị trường mở
+3. Hạ lãi suất tái chiết khấu
+4. 1 và 2
+Câu 6:  Công cụ chính sách tiền tệ nào giúp NHTW có sự chủ động cao nhất
+1. Dự trữ bắt buộc
+2. Lãi suất tái chiết khấu
+3. Thị trường mở
+4. Cả 3 đáp án trên
+Câu 7: Số nhân tiền tăng lên khi
+1. Các giao dịch thanh toán bằng tiền mặt tăng lên
+2. Ngân hàng thương mại giảm dự trữ vượt mức
+3. Hoạt động thanh toán bằng thẻ trở nên phổ biến hơn
+4. Cả B và C
+Câu 8: Trên thị trường vốn người ta mua bán
+1. Trái phiếu ngân hàng
+2. Chứng chỉ tiền gửi
+3. Thương phiếu
+4. Cả 3 đáp án trên
+Câu 9: Khi thực hiện chính sách tiền tệ, mục tiêu tăng trưởng kinh tế luôn đi kèm với 
+1. Ổn định lãi suất
+2. Tạo công ăn việc làm
+3. Ổn định giá cả
+4. Cả 3 đáp án trên
+Câu 10: Đối tượng nào sau đây là Vốn chủ sở hữu:
+1. Phải thu Khách hàng 
+2. Phải trả người bán 
+3. Nguồn kinh phí 
+4. Quỹ đầu tư phát triển 
+Câu 11: Tháng 1, đại lý bán vé máy bay VNA bán được 500 vé và thu đc 800 triệu VNĐ trong đó 300 vé có trị giá 500 triệu VNĐ sẽ thực hiện chuyến bay trong tháng 1, còn lại sẽ thực hiện trong tháng 2. Doanh thu tháng 1 là:
+1. 800 triệu VNĐ
+2. 500 triệu VNĐ
+3. 300 triệu VNĐ
+4. Không câu nào đúng
+Câu 12: Đối tượng nào sau đây là Nợ phải trả:
+1. Khoản khách hàng trả trước
+2. Phải thu khách hàng
+3. Khoản trả trước người bán
+4. Lợi nhuận chưa phân phối 
+
+
+CÂU HỎI THỰC TẾ, TIN TỨC CẬP NHẬT
+
+
+
+
+Câu 1: Ngày 27-28/2/2019, tại Hà Nội, sẽ diễn ra sự kiện lớn nào sau đây:
+1. Hội nghị thượng đỉnh Mỹ - Triều Tiên lần 2
+2. Hội nghị xúc tiến thương mại Việt Nam - EU
+3. Cuộc gặp song phương giữa Mỹ và Trung Quốc
+4. Hội nghị thượng đỉnh Mỹ - Trung lần 3
+Câu 2: Năm 2018, Quốc hội đã đề ra mục tiêu lạm phát (CPI) bình quân ở mức khoảng 4%. Trong bối cảnh còn nhiều khó khăn, thách thức, công tác quản lý, điều hành giá đã được Chính phủ, Thủ tướng Chính phủ, Ban Chỉ đạo điều hành giá quan tâm, chỉ đạo sát sao, quyết liệt. Kết thúc năm 2018, chỉ số CPI của nước ta tăng bao nhiêu phần trăm:
+1. 4%
+2. 3,54%
+3. 2,81%
+4. 4,2%
+Câu 3: Ngày 15/2/2019, Thông tư 128 của Bộ Tài chính về quy định giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại các tổ chức kinh doanh chứng khoán, ngân hàng thương mại tham gia vào thị trường chứng khoán Việt Nam có hiệu lực, kết quả làm thay đổi khung mức Giá dịch vụ môi giới mua, bán cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm (áp dụng cho chứng khoán niêm yết và chứng khoán đăng ký giao dịch) là:
+1. Tối đa 0,5% giá trị giao dịch
+2. Tối thiểu 0,15% giá trị giao dịch
+3. Từ 0,15% đến 0,5% giá trị giao dịch
+4. Tối đa 0,15% giá trị giao dịch
+Câu 4: Chính phủ vừa ban hành Nghị quyết 01 về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2019. Theo đó, GDP mục tiêu năm 2019 sẽ tăng trưởng:
+1. 6,8%
+2. 7%
+3. 7,08%
+4. 6,5%
+
+
+PHÂN TÍCH KỸ THUẬT
+Câu 1: Một giả thiết cơ bản của phân tích kỹ thuật là:
+1. Giá chứng khoán biến động ngẫu nhiên và không dự đoán trước được
+2. Giá chứng khoán thay đổi theo hình mẫu và lặp lại qua các thời kỳ 
+3. Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian 
+4. Các báo cáo tài chính cung cấp thông tin chủ yếu để định giá chứng khoán
+Câu 2: Nhà phân tích kĩ thuật ít quan tâm đến yếu tố nào sau đây:
+1. Giá cả các chứng khoán
+2. Khối lượng giao dịch
+3. Tỷ số P/E của cổ phiếu
+4. Giá tham chiếu của cổ phiếu
+Câu 3: Một chứng khoán được ồ ạt mua vào khi:
+1. Giá thị trường bắt đầu lên
+2. Giá thị trường bắt đầu xuống
+3. Kết thúc thị trường giá lên
+4. Kết thúc thị trường giá xuống
+Câu 4: Một cây nến màu xanh trên biểu đồ giá chứng khoán Việt Nam có ý nghĩa:
+1. Giá kết thúc phiên giao dịch cao hơn so với giá mở đầu phiên
+2. Giá kết thúc phiên giao dịch thấp hơn so với giá mở đầu phiên
+3. Giá kết thúc phiên giao dịch cao hơn nhiều so với giá mở đầu phiên
+4. Giá kết thúc phiên giao dịch thấp hơn nhiều so với giá mở đầu phiên
+Câu 5: Một cây nến màu đỏ trên biểu đồ giá chứng khoán Việt Nam có ý nghĩa:
+1. Giá kết thúc phiên giao dịch cao hơn so với giá mở đầu phiên
+2. Giá kết thúc phiên giao dịch thấp hơn so với giá mở đầu phiên
+3. Giá kết thúc phiên giao dịch cao hơn nhiều so với giá mở đầu phiên
+4. Giá kết thúc phiên giao dịch thấp hơn nhiều so với giá mở đầu phiên
+Câu 6: Khi các chứng khoán được ồ ạt bán ra là dấu hiệu của:
+1. Bắt đầu của thị trường giá lên
+2. Bắt đầu của thị trường giá xuống
+3. Kết thúc của thị trường giá lên
+4. Kết thúc của thị trường giá xuống
+Câu 7: Khi các chứng khoán được ồ ạt mua vào là dấu hiệu của:
+1. Bắt đầu của thị trường giá lên
+2. Bắt đầu của thị trường giá xuống
+3. Kết thúc của thị trường giá lên
+4. Kết thúc của thị trường giá xuống
+Câu 8: Sóng Elliot trong thị trường giá lên có bao nhiêu sóng điều chỉnh:
+1. 3
+2. 4
+3. 5
+4. 6
+Câu 9: Tại vùng giá hỗ trợ, nhà đầu tư chứng khoán nên:
+1. Mua vào
+2. Bán ra
+3. Không làm gì cả
+4. Tất cả đều sai
+Câu 10: Tại vùng giá kháng cự, nhà đầu tư chứng khoán nên:
+1. Mua vào
+2. Bán ra
+3. Không làm gì cả
+4. Tất cả đều sai

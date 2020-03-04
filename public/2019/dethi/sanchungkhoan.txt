@@ -1,0 +1,55 @@
+Câu 1: Mức độ giao động giá trên sàn HOSE là bao nhiêu?
+1. +/- 5%
+2. +/- 10%
+3. +/- 7%
+4. +/- 12%
+Câu 2:  Màu sắc nào biểu hiện cho sự tăng giá trần của một cổ phiếu trong ngày?
+1. Xanh
+2. Đỏ
+3. Tím
+4. Vàng
+Câu 3: Mã cổ phiếu của Công ty cổ phần Cao su Phước Hòa là gì:
+1. PHR
+2. PHC
+3. CPH
+4. PHI
+Câu 4: Màu nào cho thấy giá cổ phiếu giảm kịch sàn:
+1. Đỏ
+2. Xanh lá
+3. Tím
+4. Xanh dương
+Câu 5: Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niêm yết được quy định theo pháp luật Việt Nam là:
+1. 25% tổng số cổ phiếu
+2. 100% tổng số cổ phiếu
+3. 49% tổng số cổ phiếu
+4. 35% tổng số cổ phiếu
+Câu 6: Thị trường ngoài danh mục (OTC: Over - The - Counter) là một:
+1. Thị trường đấu giá
+2. Thị trường chuyển giao
+3. Thị trường theo thương lượng
+4. Cả A, B, C đều sai
+Câu 7: Trên sàn HNX, đơn vị yết giá là:
+1. 100 đồng
+2. 10 đồng
+3. 50 đồng
+4. 500 đồng
+Câu 8: Mã cổ phiếu VNM của Công ty Cổ phần Sữa Việt Nam hiện đang niêm yết trên sàn:
+1. HOSE
+2. HNX
+3. UpCom
+4. Chưa niêm yết
+Câu 9: Vốn điều lệ thực tối thiểu (theo giá trị ghi trên sổ kế toán) góp tại thời điểm đăng kí của sở giao dịch chứng khoán Hồ Chí Minh (HOSE) là:
+1. 120 tỷ đồng
+2. 160 tỷ đồng
+3. 100 tỷ đồng
+4. 200 tỷ đồng
+Câu 10: Việc một doanh nghiệp chào bán cổ phiếu lần đầu ra công chúng được viết tắt là gì?
+1. IPO
+2. ICO
+3. OPI
+4. OCI
+Câu 11: Trên trung tâm giao dịch chứng khoán Hà Nội, giá tham chiếu được xác định bằng:
+1. Giá mở cửa của ngày hôm trước
+2. Giá đóng cửa của ngày hôm trước
+3. Giá bình quân của ngày hôm trước
+4. Giá bình quân của ngày liền kề ngày hôm trước

@@ -1,0 +1,76 @@
+Câu 1: Chỉ số IPI là cụm từ viết tắt của cụm từ nào sau đây:
+1. Tổng sản phẩm nội địa
+2. Chỉ số quản lý mua hàng
+3. Chỉ số sản xuất công nghiệp
+4. Chỉ số giá tiêu dùng
+Câu 2: Ngân hàng Trung ương có thể làm thay đổi cung nội tệ bằng cách:
+1. Mua/bán trái phiếu chính phủ
+2. Mua/bán ngoại tệ
+3. Cả 2 phương án A,B đều đúng
+4. Cả 2 phương án A,B đều sai
+Câu 3: “Giỏ hàng hoá” được dùng để tính cho CPI bao gồm:
+1. Nguyên vật liệu thô được mua bởi các doanh nghiệp
+2. Các sản phẩm được mua bởi người tiêu dùng điển hình
+3. Tất cả các sản phẩm hiện hành
+4. Tất cả các sản phẩm tiêu dùng
+Câu 04: Mô hình AD-AS thể hiện mối quan hệ giữa:
+1. Giá cả và sản lượng của một hàng hóa cụ thể
+2. Thất nghiệp và sản lượng
+3. Lương và việc làm
+4. GDP thực tế và mức giá chung
+Câu 5: Sự khác biệt giữa GDP và GNP phản ánh:
+1. Cán cân thương mại
+2. Đầu tư nước ngoài ròng
+3. Cán cân thanh toán quốc tế
+4. Thu nhập ròng nhân tố từ nước ngoài
+Câu 6: Xét trên tổng thể nền kinh tế:
+1. Tổng doanh thu bằng tổng chi phí
+2. Tổng thu nhập bằng tổng tiêu dùng
+3. Tổng thu nhập bằng tổng chi tiêu
+4. Tổng số người mua bằng tổng số người bán
+Câu 7: Lợi nhuận của một doanh nghiệp Việt Nam thu được tại New York sẽ được tính vào:
+1. GNP của Việt Nam
+2. GDP của Việt Nam
+3. GDP của Hoa Kì
+4. Cả A và C đều đúng
+Câu 8: Khoản nào sau đây không được tính vào GDP của Việt Nam năm 2019?
+1. Một chiếc xe đạp sản xuất tại Công ty xe đạp Thống Nhất năm 2019
+2. Thu nhập mà người môi giới bất động sản nhận được trong năm 2019
+3. Dịch vụ giới thiệu việc làm được thực hiện trong năm 2019
+4. Một khu chung cư xây dựng năm 2018 và bắt đầu mở bán năm 2019
+Câu 9: Khi nền kinh tế đang có lạm phát cao nên:
+1. Giảm lượng cung tiền, tăng lãi suất
+2. Tăng thuế và giảm chi ngân sách
+3. A và B đều đúng
+4. A và B đều sai
+Câu 10: Tỷ giá thay đổi sẽ ảnh hưởng đến:
+1. Cán cân thương mại
+2. Cán cân thanh toán
+3. Sản lượng quốc gia
+4. Tất cả đều đúng
+Câu 11: Chỉ tiêu nào dưới đây được coi là quan trọng nhất để đánh giá thành tựu kinh tế của một quốc gia trong dài hạn?
+1.  Tăng trưởng GDP danh nghĩa
+2.  Tăng trưởng GDP thực tế
+3.  Tăng trưởng GDP thực tế bình quân đầu người
+4. Tăng trưởng khối lượng tư bản
+Câu 12: Thất nghiệp tạm thời không phát sinh trong trường hợp nào dưới đây?
+1. Sinh viên mới tốt nghiệp đi tìm việc làm
+2. Một số doanh nghiệp bị phá sản
+3. Một số công nhân từ bỏ công việc hiện tại để tìm việc làm mới
+4. Các công nhân từ bỏ các công việc hiện tại và thôi không tìm việc nữa
+Câu 13:  Công thức tính GNP, biết :
+C = Chi phí tiêu dùng cá nhân (hộ gia đình)
+I = Tổng đầu tư cá nhân quốc nội (tất cả các doanh nghiệp đầu tư trên lãnh thổ 1 nước)
+G = Chi phí tiêu dùng của chính phủ
+X = Kim ngạch xuất khẩu các hàng hóa và dịch vụ
+M = Kim ngạch nhập khẩu của hàng hóa và dịch vụ
+NR = Thu nhập ròng từ các hàng hóa và dịch vụ đầu tư ở nước ngoài (thu nhập ròng)
+1. GNP = C + I + G + ( X + M) + NR
+2. GNP = C + G – I +( M – NR)
+3. GNP = C + I + G + (X - M) + NR
+4. GNP = C - I + G + (X - M) + NR
+Câu 14:  Theo cách tiếp cận chi tiêu, một lô hàng may mặc sản xuất vào năm 2017 và bán vào năm 2018 thì khi tính GDP năm 2018 được tính vào:
+1. Tiêu dùng
+2. Đầu tư
+3. Mua hàng của chính phủ
+4. Xuất khẩu ròng
